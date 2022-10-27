@@ -20,27 +20,16 @@ I'm Benedetta, full stack developer from Italy 🤌, currently travelling the wo
   <img alt="c" src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=black&style=flat-square" />
 </p>
 
-### 🔭 Curious about
-
-- Blockchain
-- Web 3
-- Deep Neural network
-
-<!--
-### ⚡Passionate about
+<img alt="divider" src="https://www.freepnglogos.com/uploads/divider-png/divider-boom-blasters-loud-custom-car-horns-funny-musical-car-2.png" />
 
 
+- 🔭 I’m curious about: Blockchain, Deep Neural Networks, Web3.
+- 🌱 I’m currently learning more about Ruby and Ruby on Rails.
+- ⚡ Fun fact: I like animes.
 
-**picqushini/picqushini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img alt="divider" src="https://www.freepnglogos.com/uploads/divider-png/divider-boom-blasters-loud-custom-car-horns-funny-musical-car-2.png" />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=benny.castagna@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=white&style=flat-square" /></a>
+  <a href="https://www.linkedin.com/in/benedettacastagna/"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=Linkedin&logoColor=white&style=flat-square" /></a>
+</p>
