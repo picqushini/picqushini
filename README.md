@@ -20,14 +20,12 @@ I'm Benedetta, full stack developer from Italy 🤌, currently travelling the wo
   <img alt="c" src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=black&style=flat-square" />
 </p>
 
-<img alt="divider" src="https://www.freepnglogos.com/uploads/divider-png/divider-boom-blasters-loud-custom-car-horns-funny-musical-car-2.png" />
 
 
 - 🔭 I’m curious about: Blockchain, Deep Neural Networks, Web3.
 - 🌱 I’m currently learning more about Ruby and Ruby on Rails.
 - ⚡ Fun fact: I like animes.
 
-<img alt="divider" src="https://www.freepnglogos.com/uploads/divider-png/divider-boom-blasters-loud-custom-car-horns-funny-musical-car-2.png" />
 
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=benny.castagna@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=white&style=flat-square" /></a>
