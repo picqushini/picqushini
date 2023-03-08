@@ -23,7 +23,7 @@ I'm Benedetta, full stack developer from Italy 🤌, currently travelling the wo
 
 
 - 🔭 I’m curious about: Blockchain, Deep Neural Networks, Web3.
-- 🌱 I’m currently learning more about Ruby and Ruby on Rails.
+- 🌱 I’m currently learning more about Flutter and app development.
 - ⚡ Fun fact: I like animes.
 
 
